@@ -57,5 +57,5 @@ $ trivy image --format json --output result.json infoslack/dvwa
   vm          [EXPERIMENTAL] Scan a virtual machine image
 ```
 ### References:
-https://aquasecurity.github.io/trivy/v0.48/getting-started/installation/
-https://www.howtogeek.com/devops/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers/
+1. https://aquasecurity.github.io/trivy/v0.48/getting-started/installation/
+2. https://www.howtogeek.com/devops/how-to-use-trivy-to-find-vulnerabilities-in-docker-containers/

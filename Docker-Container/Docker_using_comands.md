@@ -9,6 +9,9 @@ $ docker stop <conatiner-id>
 $ docker rmi <conatiner-id>
 (-f for force to delete)
 
+### Pull a Docker image:
+$ docker pull infoslack/dvwa
+
 ### Docker-compose commands:
 * For run:
 $ docker-compose up

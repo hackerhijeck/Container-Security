@@ -26,6 +26,8 @@ $ docker-compose up
 $ docker-compose ps
 ## For stop:
 $ docker-compose down
+## Remove or Delete docker-compose image:
+$ docker-compose down --rmi all --volumes
 ```
 
 ##### For Learning:
